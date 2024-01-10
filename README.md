@@ -16,3 +16,5 @@
 [Report](Predicting%20NFL%20Outcomes%20Based%20on%20Weather.pdf)
 
 10-page report and simulation study to analyze if adverse weather actually impacts home field advantage in the NFL.
+
+!(Weather%Graph.png)
