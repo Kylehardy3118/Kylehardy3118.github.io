@@ -17,4 +17,4 @@
 
 10-page report and simulation study to analyze if adverse weather actually impacts home field advantage in the NFL.
 
-!(Weather%Graph.png)
+![Home Team Win Percentage by Temperature](Weather%Graph.png)
