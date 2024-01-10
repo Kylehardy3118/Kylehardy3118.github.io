@@ -1,9 +1,9 @@
 # Aspiring Data Analyst 
 
-#### Technical Skills: R, SAS and Python
-#### Certified in Microsoft Excel, Word and Powerpoint
-#### **Phone Number:** 504-439-1787
-#### **Email:** kylehardy3118@gmail.com
+**Technical Skills:** R, SAS and Python   
+**Certified in** Microsoft Excel, Word and Powerpoint   
+**Phone Number:** 504-439-1787   
+**Email:** kylehardy3118@gmail.com   
 
 ## Education 
 - B.S., Statistics | North Carolina State University (_May 2024_)
