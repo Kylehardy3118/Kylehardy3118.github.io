@@ -18,6 +18,7 @@
 10-page report and simulation study to analyze if adverse weather actually impacts home field advantage in the NFL.
 
 ![Home Team Win Percentage by Temperature](Weather_Graph.png)
+_Page 4 of Report_
 
 ### NBA Data
 [Report](NBA_Data_Report.pdf)
@@ -25,3 +26,4 @@
 10-page report on how the style of gameplay in the NBA has changed or remained the same since 1998.
 
 ![Distribution of 3-Point Attempts in the NBA by Team Per Season](NBA__Image.png)
+_Page 5 of Report_
