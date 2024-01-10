@@ -2,6 +2,7 @@
 
 **Technical Skills:** R, SAS and Python   
 **Certified in:** Microsoft Excel, Word and Powerpoint   
+## Contact Me 
 **Phone Number:** 504-439-1787   
 **Email:** kylehardy3118@gmail.com   
 
