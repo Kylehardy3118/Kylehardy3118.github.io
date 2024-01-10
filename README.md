@@ -7,9 +7,9 @@
 - B.S., Statistics | North Carolina State University (_May 2024_)
 
 ## Work Experience
-**Data Collection Team Leader**
-
-Institute for Transportation Research and Education (_May 2023 - August 2023_)
+**Data Collection Team Leader**           
+Institute for Transportation Research and Education     
+(_May 2023 - August 2023_)
 - Managed and guided a team of researchers, ensuring quality control and accuracy in the data collection processes
 - Observed and assisted professional statisticians in performing a statewide seatbelt study
 
