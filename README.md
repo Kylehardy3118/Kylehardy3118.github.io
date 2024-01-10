@@ -11,7 +11,8 @@
 - Managed and guided a team of researchers, ensuring quality control and accuracy in the data collection processes
 - Observed and assisted professional statisticians in performing a statewide seatbelt study
 
-## Projects 
+## Projects
+
 ### Predicting NFL Outcomes Based on Weather
 [Report](Predicting_NFL_Outcomes_Based_on_Weather.pdf)
 
