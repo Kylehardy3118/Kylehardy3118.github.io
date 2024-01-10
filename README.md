@@ -13,8 +13,11 @@
 
 ## Projects 
 ### Predicting NFL Outcomes Based on Weather
-[Report](Predicting%20NFL%20Outcomes%20Based%20on%20Weather.pdf)
+[Report](Predicting_NFL_Outcomes_Based_on_Weather.pdf)
 
 10-page report and simulation study to analyze if adverse weather actually impacts home field advantage in the NFL.
 
-![Home Team Win Percentage by Temperature](Weather%Graph.png)
+![Home Team Win Percentage by Temperature](Weather_Graph.png)
+
+### NBA Data
+[Report](NBA_Data_Report.pdf)
