@@ -1,6 +1,6 @@
 # Aspiring Data Analyst 
 
-#### Techinal Skills: R, SAS and Pyhton
+#### Techinal Skills: R, SAS and Python
 #### Certified in Microsoft Excel, Word and Powerpoint
 
 ## Education 
