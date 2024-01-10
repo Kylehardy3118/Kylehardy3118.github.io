@@ -2,6 +2,8 @@
 
 #### Technical Skills: R, SAS and Python
 #### Certified in Microsoft Excel, Word and Powerpoint
+#### **Phone Number:** 504-439-1787
+#### **Email:** kylehardy3118@gmail.com
 
 ## Education 
 - B.S., Statistics | North Carolina State University (_May 2024_)
@@ -30,10 +32,3 @@ _Page 4 of Report_
 
 ![Distribution of 3-Point Attempts in the NBA by Team Per Season](NBA__Image.png)
 _Page 5 of Report_
-
-## Contact Me
-
-### Phone Number:
-504-439-1787
-### Email:
-kylehardy3118@gmail.com
