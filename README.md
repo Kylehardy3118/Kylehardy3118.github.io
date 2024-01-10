@@ -31,3 +31,9 @@ _Page 4 of Report_
 ![Distribution of 3-Point Attempts in the NBA by Team Per Season](NBA__Image.png)
 _Page 5 of Report_
 
+## Contact Me
+
+### Phone Number:
+504-439-1787
+### Email:
+kylehardy3118@gmail.com
