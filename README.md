@@ -21,3 +21,7 @@
 
 ### NBA Data
 [Report](NBA_Data_Report.pdf)
+
+10-page report on how the style of gameplay in the NBA has changed or remained the same since 1998.
+
+![Distribution of 3-Point Attempts in the NBA by Team Per Season](NBA__Image.png)
