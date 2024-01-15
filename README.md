@@ -25,7 +25,7 @@ Institute for Transportation Research and Education
 
 ![Home Team Win Percentage by Temperature](Weather_Graph.png)
 _Page 4 of Report_   
-_Code can be found [here](NFL_Report_Code/)_
+_Code can be found [here](https://github.com/Kylehardy3118/NFL_Report_Code/)_
 
 ### NBA Data
 [Report](NBA_Data_Report.pdf)
@@ -34,4 +34,4 @@ _Code can be found [here](NFL_Report_Code/)_
 
 ![Distribution of 3-Point Attempts in the NBA by Team Per Season](NBA__Image.png)
 _Page 5 of Report_   
-_Code can be found [here](NBA_Report_Code/)_
+_Code can be found [here](https://github.com/Kylehardy3118/NBA_Report_Code/)_
