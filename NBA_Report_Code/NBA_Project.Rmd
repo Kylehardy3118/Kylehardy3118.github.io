@@ -1,0 +1,160 @@
+---
+title: "ST442 Final Project"
+author: "Nicholas Kraemer"
+date: "2023-11-23"
+output: pdf_document
+---
+
+
+
+```{r}
+library(ggridges)
+library(ggplot2)
+library(data.table)
+# 3 Pointers
+team_stats <- read.table(file = 'D:\\ST 442\\NBA_Team_Stats.csv', sep = ',', header = TRUE)
+team_stats$Season <- sub(".*-(\\d+)", "\\1", team_stats$Year)
+team_stats
+three_joyplot <- ggplot(team_stats, aes(x = X3a_per_game, y = Season, fill = stat(x))) +
+      geom_density_ridges_gradient(scale = 3, rel_min_height = 0.01, 
+                                   show.legend = FALSE, color = "#013220") +
+      scale_fill_viridis_c(option = "C") +
+      labs(title = "Distribution of 3-Point Attempts in the NBA by Team per Season",
+           subtitle = "Since the 1998 Season",
+           x = "3-Point Attempts Per Game (3PA/G)",
+           y = NULL) +
+      theme(panel.grid.major.x = element_line(color = "gray80", size = 0.10),
+            panel.grid.major.y = element_line(color = "gray80", size = 0.10),
+            panel.background = element_blank(),
+            panel.grid.minor.x = element_blank(),
+            plot.background = element_rect(fill = "#F0F0F0"),
+            plot.title = element_text(face = "bold", hjust = -.42),
+            plot.subtitle = element_text(size = 10, hjust = -.07),
+            plot.margin = margin(r = 30, t = 10, b = 10, l = 20),
+            axis.title.x = element_text(hjust = 1),
+            axis.text.y = element_text(face = "bold", size = 10),
+            axis.text.x = element_text(face = "bold", size = 10),
+            axis.ticks.x = element_blank(),
+            axis.ticks.y = element_blank())
+three_joyplot
+#ggsave("NBA_3pt.png", three_joyplot)
+```
+https://livebook.manning.com/concept/r/ridgeline-plot
+datacamp.com
+
+```{r}
+# Defensive Rebounds
+dreb_joyplot <- ggplot(team_stats, aes(x = Dreb, y = Season, fill = stat(x))) +
+      geom_density_ridges_gradient(scale = 3, rel_min_height = 0.01, 
+                                   show.legend = FALSE, color = "#013220") +
+      scale_fill_viridis_c(option = "C") +
+      labs(title = "Distribution of Defensive Rebounds in the NBA by Team per Season",
+           subtitle = "Since the 1998 Season",
+           x = "Defensive Rebounds per Game",
+           y = NULL) +
+      theme(panel.grid.major.x = element_line(color = "gray80", size = 0.10),
+            panel.grid.major.y = element_line(color = "gray80", size = 0.10),
+            panel.background = element_blank(),
+            panel.grid.minor.x = element_blank(),
+            plot.background = element_rect(fill = "#F0F0F0"),
+            plot.title = element_text(face = "bold", hjust = -.42),
+            plot.subtitle = element_text(size = 10, hjust = -.07),
+            plot.margin = margin(r = 30, t = 10, b = 10, l = 20),
+            axis.title.x = element_text(hjust = 1),
+            axis.text.y = element_text(face = "bold", size = 10),
+            axis.text.x = element_text(face = "bold", size = 10),
+            axis.ticks.x = element_blank(),
+            axis.ticks.y = element_blank())
+dreb_joyplot
+ggsave("NBA_Dreb.png", dreb_joyplot)
+```
+```{r}
+# Offensive Rebounds
+oreb_joyplot <- ggplot(team_stats, aes(x = Oreb, y = Season, fill = stat(x))) +
+      geom_density_ridges_gradient(scale = 3, rel_min_height = 0.01, 
+                                   show.legend = FALSE, color = "#013220") +
+      scale_fill_viridis_c(option = "C") +
+      labs(title = "Distribution of Offensive Rebounds in the NBA by Team per Season",
+           subtitle = "Since the 1998 Season",
+           x = "Offensive Rebounds per Game",
+           y = NULL) +
+      theme(panel.grid.major.x = element_line(color = "gray80", size = 0.10),
+            panel.grid.major.y = element_line(color = "gray80", size = 0.10),
+            panel.background = element_blank(),
+            panel.grid.minor.x = element_blank(),
+            plot.background = element_rect(fill = "#F0F0F0"),
+            plot.title = element_text(face = "bold", hjust = -.42),
+            plot.subtitle = element_text(size = 10, hjust = -.07),
+            plot.margin = margin(r = 30, t = 10, b = 10, l = 20),
+            axis.title.x = element_text(hjust = 1),
+            axis.text.y = element_text(face = "bold", size = 10),
+            axis.text.x = element_text(face = "bold", size = 10),
+            axis.ticks.x = element_blank(),
+            axis.ticks.y = element_blank())
+oreb_joyplot
+ggsave("NBA_Oreb.png", oreb_joyplot)
+```
+```{r}
+# Blocks
+blk_joyplot <- ggplot(team_stats, aes(x = Blk, y = Season, fill = stat(x))) +
+      geom_density_ridges_gradient(scale = 3, rel_min_height = 0.01, 
+                                   show.legend = FALSE, color = "#013220") +
+      scale_fill_viridis_c(option = "C") +
+      labs(title = "Distribution of Blocks in the NBA by Team per Season",
+           subtitle = "Since the 1998 Season",
+           x = "Blocks per Game",
+           y = NULL) +
+      theme(panel.grid.major.x = element_line(color = "gray80", size = 0.10),
+            panel.grid.major.y = element_line(color = "gray80", size = 0.10),
+            panel.background = element_blank(),
+            panel.grid.minor.x = element_blank(),
+            plot.background = element_rect(fill = "#F0F0F0"),
+            plot.title = element_text(face = "bold", hjust = -.42),
+            plot.subtitle = element_text(size = 10, hjust = -.07),
+            plot.margin = margin(r = 30, t = 10, b = 10, l = 20),
+            axis.title.x = element_text(hjust = 1),
+            axis.text.y = element_text(face = "bold", size = 10),
+            axis.text.x = element_text(face = "bold", size = 10),
+            axis.ticks.x = element_blank(),
+            axis.ticks.y = element_blank())
+blk_joyplot
+ggsave("NBA_blk.png", blk_joyplot)
+```
+
+
+```{r}
+# Offense
+library(dplyr)
+offense_win_lm <- lm(Wins ~ Pts+Reb+Ast+Oreb+FGA+FGM+FG.+X3m_per_game+X3a_per_game+X3pt.
+             +Ftm+Fta+FT., data = team_stats)
+
+model.aic.backward <- step(offense_win_lm, direction = "backward", trace = 1)
+new_offense_win_lm <- lm(Wins ~ Reb + Ast + Oreb + FGM + FG. + X3m_per_game + X3pt. + 
+                     FT., data = team_stats)
+summary(offense_win_lm)
+summary(new_offense_win_lm)
+```
+
+```{r}
+# Offense
+library(dplyr)
+defense_win_lm <- lm(Wins ~ Dreb+Stl+Blk, data = team_stats)
+
+model.aic.backward <- step(defense_win_lm, direction = "backward", trace = 1)
+
+summary(defense_win_lm)
+
+```
+
+
+```{r}
+season_lm <- lm(Season ~ Pts+Reb+Ast+Stl+Blk+To+Pf+Dreb+Oreb+FGM+FGA+FG.+X3m_per_game+X3a_per_game+X3pt.+Ftm+Fta+FT.+Eff+Deff, data = team_stats)
+
+model.aic.backward <- step(season_lm, direction = "backward", trace = 1)
+
+new_season_lm <- lm(Season ~ Reb + Ast + Stl + Blk + To + Pf + Oreb + FGM + FG. + 
+    X3a_per_game + X3pt. + Ftm + Fta + FT. + Eff + Deff, data = team_stats)
+
+summary(season_lm)
+summary(new_season_lm)
+```
