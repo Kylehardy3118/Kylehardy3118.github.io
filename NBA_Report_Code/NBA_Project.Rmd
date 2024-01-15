@@ -1,6 +1,6 @@
 ---
 title: "ST442 Final Project"
-author: "Nicholas Kraemer"
+author: "Kyle Hardy"
 date: "2023-11-23"
 output: pdf_document
 ---
