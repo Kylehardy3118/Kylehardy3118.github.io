@@ -1,0 +1,7 @@
+Folder contains all code used in the NFL Report
+
+out_file.r contains the code needed to output the simulation results
+
+run_file.r contains the code to run the simulation study and create synthetic data 
+
+analysis.r contains all code used to create the graphics in the report
