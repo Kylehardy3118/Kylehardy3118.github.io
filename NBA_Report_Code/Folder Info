@@ -1,3 +1,5 @@
 All code used in the NBA Report can be found here
 
 NBA_Project.rmd contains the code to create some visuals in the report and also code to optimize the linear regression models
+
+NBA_Code.r contains code needed to create most visuals in the report
