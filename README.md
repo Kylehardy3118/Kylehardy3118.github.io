@@ -24,8 +24,7 @@ Institute for Transportation Research and Education
 10-page report and simulation study to analyze if adverse weather actually impacts home field advantage in the NFL.
 
 ![Home Team Win Percentage by Temperature](Weather_Graph.png)
-_Page 4 of Report_   
-_Code can be found [here](https://github.com/Kylehardy3118/NFL_Report_Code/)_
+_Page 4 of Report_
 
 ### NBA Data
 [Report](NBA_Data_Report.pdf)
@@ -34,4 +33,4 @@ _Code can be found [here](https://github.com/Kylehardy3118/NFL_Report_Code/)_
 
 ![Distribution of 3-Point Attempts in the NBA by Team Per Season](NBA__Image.png)
 _Page 5 of Report_   
-_Code can be found [here](https://github.com/Kylehardy3118/NBA_Report_Code/)_
+_Code for both reports can be found [here](https://github.com/Kylehardy3118/Kylehardy3118.github.io)_
