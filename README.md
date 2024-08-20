@@ -5,7 +5,7 @@
 ## Contact Me 
 **Phone Number:** 504-439-1787     
 **Email:** Kwhardy@ncsu.edu  
-**Linkedin:** [www.linkedin.com/in/kyle-w-hardy](www.linkedin.com/in/kyle-w-hardy)  
+**Linkedin:** [https://www.linkedin.com/in/kyle-w-hardy](https://www.linkedin.com/in/kyle-w-hardy)  
 
 ## Education 
 - M.S., Analytics | Institute for Advanced Analytics (_April 2025_)
