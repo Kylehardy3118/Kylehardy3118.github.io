@@ -8,7 +8,7 @@
 **Linkedin:** [www.linkedin.com/in/kyle-w-hardy](www.linkedin.com/in/kyle-w-hardy)  
 
 ## Education 
-- Master of Science in Analytics | Institute for Advanced Analytics (_April 2025_)
+- M.S., Analytics | Institute for Advanced Analytics (_April 2025_)
 - B.S., Statistics | North Carolina State University (_April 2024_)
 
 ## Work Experience
