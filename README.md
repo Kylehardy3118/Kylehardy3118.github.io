@@ -1,18 +1,20 @@
-# Aspiring Data Analyst 
+# Aspiring Data Scientist 
 
-**Technical Skills:** R, SAS and Python   
-**Certified in:** Microsoft Excel, Word and Powerpoint   
+**Technical Skills:** R, SAS, SQL and Python   
+**Certified in:** Python  
 ## Contact Me 
 **Phone Number:** 504-439-1787   
-**Email:** kylehardy3118@gmail.com   
+**Email:** Kwhardy@ncsu.edu
+**Linkedin:** [www.linkedin.com/in/kyle-w-hardy](www.linkedin.com/in/kyle-w-hardy)
 
 ## Education 
-- B.S., Statistics | North Carolina State University (_May 2024_)
+- Master of Science in Analytics | Institute for Advanced Analytics (_April 2025_)
+- B.S., Statistics | North Carolina State University (_April 2024_)
 
 ## Work Experience
-**Data Collection Team Leader**           
+**Data Management Team Lead**           
 Institute for Transportation Research and Education     
-(_May 2023 - August 2023_)
+(_April 2023 - August 2023_)
 - Managed and guided a team of researchers, ensuring quality control and accuracy in the data collection processes
 - Observed and assisted professional statisticians in performing a statewide seatbelt study
 
