@@ -8,8 +8,8 @@
 **Linkedin:** [https://www.linkedin.com/in/kyle-w-hardy](https://www.linkedin.com/in/kyle-w-hardy)  
 
 ## Education 
-- M.S., Analytics | Institute for Advanced Analytics (_April 2025_)
-- B.S., Statistics | North Carolina State University (_April 2024_)
+- M.S., Analytics | Institute for Advanced Analytics (_May 2025_)
+- B.S., Statistics | North Carolina State University (_May 2024_)
 
 ## Work Experience
 **Data Collection Team Lead**           
