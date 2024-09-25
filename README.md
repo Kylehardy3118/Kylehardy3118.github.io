@@ -1,4 +1,4 @@
-# Aspiring Data Scientist 
+# Data Scientist 
 
 **Technical Skills:** R, SAS, SQL and Python   
 **Certified in:** Python  
