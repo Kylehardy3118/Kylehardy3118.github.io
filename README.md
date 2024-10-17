@@ -31,7 +31,7 @@ _Page 4 of Report_
 ### Sentiment Analysis of Presidential Inaugural Speeches
 [Presentation](./Text%20Analytics/Orange%207%20Text%20Analytics.pdf)
 
-Conducted sentiment analysis of U.S. presidential inaugural speeches using Python, identifying trends and insights from historical text data
+Conducted sentiment analysis of U.S. presidential inaugural speeches using Python, identifying trends and insights from historical and modern text data.
 
 ![FDR Speech Sentiment](./Text%20Analytics/FDR_Speech.png)
 _Slide 8 of Presentation_
