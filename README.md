@@ -28,6 +28,10 @@ Institute for Transportation Research and Education
 ![Home Team Win Percentage by Temperature](Weather_Graph.png)
 _Page 4 of Report_
 
+### Sentiment Analysis of Presidential Inaugural Speeches
+
+Conducted sentiment analysis of U.S. presidential inaugural speeches using Python, identifying trends and insights from historical text data
+
 ### NBA Data
 [Report](NBA_Data_Report.pdf)
 
