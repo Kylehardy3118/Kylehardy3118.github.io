@@ -1,7 +1,7 @@
 # Data Scientist 
 
 **Technical Skills:** R, Tableau, SQL and Python   
-**Certified in:** Python  
+**Certifications:** PCEP Certified Entry-Level Python Programmer  
 ## Contact Me 
 **Phone Number:** 504-439-1787     
 **Email:** Kwhardy@ncsu.edu  
