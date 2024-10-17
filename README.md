@@ -1,6 +1,6 @@
 # Data Scientist 
 
-**Technical Skills:** R, SAS, SQL and Python   
+**Technical Skills:** R, Tableau, SQL and Python   
 **Certified in:** Python  
 ## Contact Me 
 **Phone Number:** 504-439-1787     
@@ -29,7 +29,7 @@ Institute for Transportation Research and Education
 _Page 4 of Report_
 
 ### Sentiment Analysis of Presidential Inaugural Speeches
-[Presentation](./Text%20Analytics/Orange%207%20Text%20Analytics.pptx)
+[Presentation](./Text%20Analytics/Orange%207%20Text%20Analytics.pdf)
 
 Conducted sentiment analysis of U.S. presidential inaugural speeches using Python, identifying trends and insights from historical text data
 
@@ -43,4 +43,4 @@ _Slide 8 of Presentation_
 
 ![Distribution of 3-Point Attempts in the NBA by Team Per Season](NBA__Image.png)
 _Page 5 of Report_   
-_Code for both reports can be found [here](https://github.com/Kylehardy3118/Kylehardy3118.github.io)_
+_Code for all projects can be found [here](https://github.com/Kylehardy3118/Kylehardy3118.github.io)_
