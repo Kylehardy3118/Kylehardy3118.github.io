@@ -1,6 +1,6 @@
 # Data Scientist 
 
-**Technical Skills:** R, Tableau, SQL and Python   
+**Technical Skills:** Python, Tableau, SQL and R   
 **Certifications:** PCEP Certified Entry-Level Python Programmer  
 ## Contact Me 
 **Phone Number:** 504-439-1787     
@@ -26,6 +26,7 @@ Institute for Transportation Research and Education
 Designed and developed a dynamic Tableau dashboard for NCSU Women's Tennis, visualizing player statistics, match outcomes, and performance.
 
 ![Dashboard Home Page](Dashboard.png)
+_Developed by: Clayton Casper, Landon Docherty, Macy Faw, Kyle Hardy and Cassidy Morales_
 
 ### Sentiment Analysis of Presidential Inaugural Speeches
 [Project](./Text%20Analytics/Orange%207%20Text%20Analytics.pdf)
