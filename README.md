@@ -20,6 +20,21 @@ Institute for Transportation Research and Education
 
 ## Projects
 
+### NCSU Women's Tennis Dashboard
+[Dashboard](https://public.tableau.com/app/profile/landon.docherty/viz/NCSUWomensTennis-3-2-2/HomePage)
+
+Designed and developed a dynamic Tableau dashboard for NCSU Women's Tennis, visualizing player statistics, match outcomes, and performance.
+
+![Dashboard Home Page](Dashboard.png)
+
+### Sentiment Analysis of Presidential Inaugural Speeches
+[Project](./Text%20Analytics/Orange%207%20Text%20Analytics.pdf)
+
+Conducted sentiment analysis of U.S. presidential inaugural speeches using Python, identifying trends and insights from historical and modern text data.
+
+![FDR Speech Sentiment](./Text%20Analytics/FDR_Speech.png)
+_Slide 8 of Presentation_
+
 ### Predicting NFL Outcomes Based on Weather
 [Report](Predicting_NFL_Outcomes_Based_on_Weather.pdf)
 
@@ -28,19 +43,6 @@ Institute for Transportation Research and Education
 ![Home Team Win Percentage by Temperature](Weather_Graph.png)
 _Page 4 of Report_
 
-### Sentiment Analysis of Presidential Inaugural Speeches
-[Presentation](./Text%20Analytics/Orange%207%20Text%20Analytics.pdf)
 
-Conducted sentiment analysis of U.S. presidential inaugural speeches using Python, identifying trends and insights from historical and modern text data.
 
-![FDR Speech Sentiment](./Text%20Analytics/FDR_Speech.png)
-_Slide 8 of Presentation_
 
-### NBA Data
-[Report](NBA_Data_Report.pdf)
-
-10-page report on how the style of gameplay in the NBA has changed or remained the same since 1998.
-
-![Distribution of 3-Point Attempts in the NBA by Team Per Season](NBA__Image.png)
-_Page 5 of Report_   
-_Code for all projects can be found [here](https://github.com/Kylehardy3118/Kylehardy3118.github.io)_
