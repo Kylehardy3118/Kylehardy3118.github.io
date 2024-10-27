@@ -26,7 +26,7 @@ Institute for Transportation Research and Education
 Designed and developed a dynamic Tableau dashboard for NCSU Women's Tennis, visualizing player statistics, match outcomes, and performance.
 
 ![Dashboard Home Page](Dashboard.png)
-_Developed by: Clayton Casper, Landon Docherty, Macy Faw, Kyle Hardy and Cassidy Morales_
+_Dashboard Homepage_
 
 ### Sentiment Analysis of Presidential Inaugural Speeches
 [Project](./Text%20Analytics/Orange%207%20Text%20Analytics.pdf)
