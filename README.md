@@ -4,7 +4,7 @@
 **Certifications:** PCEP Certified Entry-Level Python Programmer  
 ## Contact Me 
 **Phone Number:** 504-439-1787     
-**Email:** Kwhardy@ncsu.edu  
+**Email:** kwhardy@ncsu.edu  
 **Linkedin:** [https://www.linkedin.com/in/kyle-w-hardy](https://www.linkedin.com/in/kyle-w-hardy)  
 
 ## Education 
