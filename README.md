@@ -11,10 +11,10 @@
 - M.S., Analytics | Institute for Advanced Analytics (_May 2025_)
 - B.S., Statistics | North Carolina State University (_May 2024_)
 
-## Practicum
-**Technical Lead**
-Elevate
-(_August 2024 - Current_)
+## Practicum  
+**Technical Lead**  
+Elevate  
+(_August 2024 - Current_)  
 - Collaborating with a team of 5 to understand the decline in Direct Mail (DM) offer response rates by identifying missing customer populations
 - Performing clustering for variable reduction on extensive credit data with over 10,000 variables and 10MM customer records using Python
 - Presenting insights from statistical analyses of past DM model predictions based on key features identified
