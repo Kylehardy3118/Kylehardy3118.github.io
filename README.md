@@ -1,4 +1,4 @@
-# Data Scientist 
+# Data Enthusiast 
 
 **Technical Skills:** Python, Tableau, SQL and R   
 **Certifications:** PCEP Certified Entry-Level Python Programmer  
