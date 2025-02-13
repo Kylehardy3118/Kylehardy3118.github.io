@@ -1,7 +1,9 @@
 # Data Enthusiast 
 
 **Technical Skills:** Python, Tableau, SQL and R   
-**Certifications:** PCEP Certified Entry-Level Python Programmer, AWS Certified Cloud Practitioner  
+**Certifications:** PCEP Certified Entry-Level Python Programmer,  
+AWS Certified Cloud Practitioner  
+
 ## Contact Me 
 **Phone Number:** 504-439-1787     
 **Email:** kwhardy@ncsu.edu  
